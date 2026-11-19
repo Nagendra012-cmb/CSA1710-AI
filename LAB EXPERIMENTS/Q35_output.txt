@@ -1,0 +1,4 @@
+Training examples: [('Sunny', 'Play'), ('Rainy', 'Stay Inside'), ('Cloudy', 'Play')]
+Sunny => Play
+Rainy => Stay Inside
+Cloudy => Play

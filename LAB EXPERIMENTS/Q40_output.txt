@@ -1,0 +1,4 @@
+User: A
+Similar users: ['B']
+Recommended item: Movie3
+Predicted rating: 4.0

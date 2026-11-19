@@ -1,0 +1,3 @@
+Observed symptoms: ['body_pain', 'cough', 'fever']
+Possible rule-based result: ['Flu-like illness']
+This educational example is not a medical diagnosis.

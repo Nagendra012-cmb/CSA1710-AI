@@ -1,0 +1,4 @@
+Target: 10101
+Initial population: ['00000', '11111', '10001', '00110']
+Best chromosome: 10001 Fitness: 4
+After mutation: 10101 Fitness: 5

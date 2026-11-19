@@ -1,0 +1,4 @@
+Fruit-color assignments:
+Apple -> Red
+Banana -> Yellow
+Grapes -> Green

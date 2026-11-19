@@ -1,0 +1,5 @@
+parameter=0.1: validation_score=0.62
+parameter=0.5: validation_score=0.70
+parameter=1.0: validation_score=0.80
+parameter=2.0: validation_score=1.00
+Best parameter: 2.0

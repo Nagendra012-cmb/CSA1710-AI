@@ -1,0 +1,6 @@
+You: hello
+Bot: Hello! How can I help you?
+You: what is your name
+Bot: I am a simple AI lab chatbot.
+You: bye
+Bot: Goodbye!

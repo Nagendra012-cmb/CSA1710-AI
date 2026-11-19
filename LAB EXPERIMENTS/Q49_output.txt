@@ -1,0 +1,4 @@
+Probe feature vector: [0.22, 0.39, 0.58]
+Closest known identity: Person_A
+Distance: 0.03
+For real face recognition, use an authorized dataset and a pretrained model.

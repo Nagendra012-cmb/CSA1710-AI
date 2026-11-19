@@ -1,0 +1,2 @@
+Goal: can_travel
+Proved: True

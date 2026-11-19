@@ -1,0 +1,3 @@
+Test point: (3, 3)
+Nearest neighbors: [((2, 2), 'A'), ((1, 1), 'A'), ((6, 6), 'B')]
+Predicted class: A

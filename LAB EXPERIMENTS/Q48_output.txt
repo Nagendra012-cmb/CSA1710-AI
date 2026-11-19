@@ -1,0 +1,3 @@
+P(Disease): 0.01
+P(Positive test): 0.059
+P(Disease | Positive): 0.161

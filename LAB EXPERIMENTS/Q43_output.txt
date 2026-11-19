@@ -1,0 +1,5 @@
+Learned Q-table:
+A {'left': 0.0, 'right': 0.0}
+B {'left': 0.0, 'right': 5.0}
+Goal {'left': 0.0, 'right': 0.0}
+Best action at B: right

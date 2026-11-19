@@ -1,0 +1,4 @@
+Training samples: [(1, 'Fail'), (2, 'Fail'), (4, 'Pass'), (6, 'Pass')]
+Study hours=2 -> Prediction=Fail
+Study hours=4 -> Prediction=Pass
+Study hours=6 -> Prediction=Pass

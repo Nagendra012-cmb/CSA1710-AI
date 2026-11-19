@@ -1,0 +1,4 @@
+Detected objects (confidence >= 0.5):
+person: confidence=0.96, bounding_box=(40, 30, 180, 260)
+bicycle: confidence=0.88, bounding_box=(190, 80, 330, 240)
+To run a real pretrained detector, load a model such as YOLO with its weights.

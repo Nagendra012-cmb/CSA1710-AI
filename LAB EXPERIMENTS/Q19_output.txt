@@ -1,0 +1,6 @@
+Arun | Dr. Rao | AI | CS401
+Kiran | Ms. Priya | Python | CS402
+Sita | Mr. Kumar | DBMS | CS403
+
+Students enrolled in Python:
+Kiran

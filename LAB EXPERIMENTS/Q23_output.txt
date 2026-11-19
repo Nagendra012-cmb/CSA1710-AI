@@ -1,0 +1,3 @@
+Children of Ramesh: ['Lakshmi', 'Suresh']
+Is Suresh parent of Arjun? True
+Grandchildren of Ramesh: ['Arjun', 'Meera']

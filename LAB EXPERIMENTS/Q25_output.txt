@@ -1,0 +1,5 @@
+Action: walk to box
+Action: push box under banana
+Action: climb box
+Action: grasp banana
+Goal achieved: True

@@ -1,0 +1,2 @@
+Leaf utility values: [3, 5, 2, 9]
+Best minimax value for MAX: 3

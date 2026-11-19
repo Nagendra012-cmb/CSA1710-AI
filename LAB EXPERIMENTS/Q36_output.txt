@@ -1,0 +1,3 @@
+The product is excellent and good => Positive
+The service is poor and bad => Negative
+The package arrived today => Neutral

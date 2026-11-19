@@ -1,0 +1,8 @@
+Grayscale image:
+[20, 35, 180]
+[45, 210, 220]
+[15, 170, 30]
+Binary segmentation (1=foreground):
+[0, 0, 1]
+[0, 1, 1]
+[0, 1, 0]

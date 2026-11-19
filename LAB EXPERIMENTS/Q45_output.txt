@@ -1,0 +1,6 @@
+Initial state: Sunny
+Day 1: Sunny
+Day 2: Sunny
+Day 3: Sunny
+Day 4: Sunny
+Day 5: Sunny

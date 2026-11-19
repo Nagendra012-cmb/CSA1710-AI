@@ -1,0 +1,3 @@
+Input layer: [1.0, 0.5]
+Hidden layer: [0.6225, 0.6341]
+Network output: 0.7143

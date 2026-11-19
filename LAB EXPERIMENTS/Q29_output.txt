@@ -1,0 +1,3 @@
+Inferred: wet_ground
+Inferred: slippery_road
+Final facts: ['rain', 'slippery_road', 'wet_ground']

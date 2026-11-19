@@ -1,0 +1,5 @@
+Target weights: [0.5, -0.2, 0.8]
+Best initial weights: [0.673, -0.047, 0.278]
+Initial fitness: -0.3256
+Updated weights: [0.586, -0.124, 0.539]
+Updated fitness: -0.0814

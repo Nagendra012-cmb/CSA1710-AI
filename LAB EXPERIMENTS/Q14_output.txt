@@ -1,0 +1,2 @@
+Game tree: [[3, 5], [6, 9]]
+Optimal value: 6

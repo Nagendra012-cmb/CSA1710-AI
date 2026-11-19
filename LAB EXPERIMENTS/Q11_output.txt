@@ -1,0 +1,5 @@
+Map coloring solution:
+A -> Red
+B -> Green
+C -> Blue
+D -> Red

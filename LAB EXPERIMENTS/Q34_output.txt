@@ -1,0 +1,4 @@
+Training image feature samples: 4
+Test image features: [0.75, 0.25]
+Predicted image class: Cat
+For deep-learning training, install TensorFlow or PyTorch and use a labeled image dataset.

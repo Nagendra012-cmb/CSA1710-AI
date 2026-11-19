@@ -1,0 +1,4 @@
+Visit: A
+Visit: C
+Visit: F
+Goal found: True

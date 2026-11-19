@@ -1,0 +1,7 @@
+Mercury: position=1, type=Terrestrial
+Venus: position=2, type=Terrestrial
+Earth: position=3, type=Terrestrial
+Mars: position=4, type=Terrestrial
+Jupiter: position=5, type=Gas giant
+
+Planet at position 3: Earth

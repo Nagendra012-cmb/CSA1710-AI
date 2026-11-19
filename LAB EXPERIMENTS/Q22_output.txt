@@ -1,0 +1,3 @@
+sparrow can fly: True
+eagle can fly: True
+penguin can fly: False
